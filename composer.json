@@ -1,0 +1,14 @@
+{
+  "name" : "LogAnalytics",
+  "require" : {
+    "php" : ">=5.3.0"
+  },
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  } ],
+  "minimum-stability" : "dev",
+  "autoload" : {
+    "classmap" : [ "src" ]
+  }
+}
